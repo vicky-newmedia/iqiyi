@@ -1,0 +1,211 @@
+<style>
+@media screen and (max-width:960px){
+				.h2{
+					width:200px;
+					height:28px;
+					font-weight: 400;
+					font-size: 100%;
+				}
+				.box1{
+					background-position: 0 0;
+					    background-position-x: 0px;
+					    background-position-y: 0px;
+					border:0px;
+					padding:0px;
+					width:28px;
+					height:28px;
+					float:left;
+				}
+				.grap{
+					width:10px;
+					height:28px;
+					background-position-x: 28px;
+					background-position-y: 0px;
+					float:left;
+					}
+			}
+			.h2{
+				width:200px;
+				height:28px;
+				font-weight: 400;
+				font-size: 100%;
+			}
+			.box1{
+				background-position: 0 0;
+				    background-position-x: 0px;
+				    background-position-y: 0px;
+				border:0px;
+				padding:0px;
+				width:28px;
+				height:28px;
+				float:left;
+			}
+			.grap{
+				width:10px;
+				height:28px;
+				background-position-x: 28px;
+				background-position-y: 0px;
+				float:left;
+			}
+			.span{
+				font-family: PingFangSC-Regular, Helvetica, Arial, "Microsoft Yahei", sans-serif;
+				font-size: 24px;
+				vertical-align:center;
+				float:left;
+				width:96px;
+				height:28px;
+				background-position-x: 38px;
+				background-position-y: 0px;
+			}
+			.grap1{
+				width:200px;
+				height:25px;
+				background-position-x: 0px;
+				background-position-y: 28px;
+			}
+			
+			.picture1 {
+				width:180px;
+				height:101px;
+				margin:5px;
+				float: left;
+				}
+			.picture2 {
+					width:180px;
+					height:101px;
+					margin:5px;
+					float: left;
+					}
+			.picture3 {
+					width:180px;
+					height:101px;
+					margin:5px;
+					float: left;
+							}
+			.picture4 {
+					width:180px;
+					height:101px;
+					margin:5px;
+					float: left;
+					}
+			.picture5 {
+					width:180px;
+					height:101px;
+					margin:5px;
+					float: left;
+					}
+			.picture6 {
+					width:180px;
+					height:101px;
+					margin:5px;
+					float: left;
+					}
+			.bigbox1 {
+			    width: 180px;
+			    height: 157px;
+			    background-color: white;
+				justify-content: center;
+				float: left;
+			}
+			.bigbox2{
+				width: 180px;
+				height: 157px;
+				background-color: white;
+				justify-content: center;
+				float: left;
+			}
+			.bigbox3{
+				width: 180px;
+				height: 157px;
+				background-color: white;
+				justify-content: center;
+				float: left;
+			}
+			.bigbox4{
+				width: 180px;
+				height: 157px;
+				background-color: white;
+				justify-content: center;
+				float: left;
+			}
+			.bigbox5{
+				width: 180px;
+				height: 157px;
+				background-color: white;
+				justify-content: center;
+				float: left;
+			}
+			.bigbox6{
+				width: 180px;
+				height: 157px;
+				background-color: white;
+				justify-content: center;
+				float: left;
+			}
+			.word1 {
+			    background-color: whitesmoke;
+			    width: 180px;
+			    height: 56px;
+			    margin: 2px;
+				padding: 6px 10px;
+				text-align: center;
+				font-family: PingFangSC-Regular, Helvetica, Arial, "Microsoft Yahei", sans-serif;
+				font-size: 14px;
+				float: left;
+				}
+			.word2 {
+				    background-color: whitesmoke;
+				    width: 180px;
+				    height: 56px;
+				    margin: 2px;
+					padding: 6px 10px;
+					text-align: center;
+					font-family: PingFangSC-Regular, Helvetica, Arial, "Microsoft Yahei", sans-serif;
+					font-size: 14px;
+					float: left;
+					}
+			.word3 {
+				    background-color: whitesmoke;
+				    width: 180px;
+				    height: 56px;
+				    margin: 2px;
+					padding: 6px 10px;
+					text-align: center;
+					font-family: PingFangSC-Regular, Helvetica, Arial, "Microsoft Yahei", sans-serif;
+					font-size: 14px;
+					float: left;
+					}
+			.word4 {
+				    background-color: whitesmoke;
+				    width: 180px;
+				    height: 56px;
+				    margin: 2px;
+					padding: 6px 10px;
+					text-align: center;
+					font-family: PingFangSC-Regular, Helvetica, Arial, "Microsoft Yahei", sans-serif;
+					font-size: 14px;
+					float: left;
+					}
+			.word5 {
+				    background-color: whitesmoke;
+				    width: 180px;
+				    height: 56px;
+				    margin: 2px;
+					padding: 6px 10px;
+					text-align: center;
+					font-family: PingFangSC-Regular, Helvetica, Arial, "Microsoft Yahei", sans-serif;
+					font-size: 14px;
+					float: left;
+					}
+			.word6 {
+				    background-color: whitesmoke;
+				    width: 180px;
+				    height: 56px;
+				    margin: 2px;
+					padding: 6px 10px;
+					text-align: center;
+					font-family: PingFangSC-Regular, Helvetica, Arial, "Microsoft Yahei", sans-serif;
+					font-size: 14px;
+					float: left;
+					}
+			</style>
